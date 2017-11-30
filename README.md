@@ -28,7 +28,7 @@ However, the city clerk (after dozens of emails and phone calls), never responde
 
 <b>Second</b>, we culled (simply copy/pasted) every single recorded shooting from the Gun Archive and SpotCrime databases for the same time period. However, Gun Archive and SpotCrime only go back so far, so we had to limit our search to the last six months of 2014 through the first six months of 2017. We then cleaned up that data sheet in OpenRefine. 
 
-<b>Third</b>, we cross referenced every shooting by date. If there were discrpancies in number of people injured or recorded shots fired, we made note of it and edited the data set to reflect what the newspaper reported. If there was no instance of an article published in the local paper, we added in good faith the data from SpotCrime or Gun Violence Archive. 
+<b>Third</b>, we cross referenced every shooting by date. If there were discrpancies in number of people injured or recorded shots fired, we made note of it and edited the data set to reflect what the newspaper reported. If there was no instance of an article published in the local paper, we added in good faith the data from SpotCrime or Gun Violence Archive. Instances of shootings with no injured or dead are recorded with zeros. 
 
 <hr>
 
