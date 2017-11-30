@@ -24,11 +24,11 @@ We initially sent in a OPRA (Open Public Records Act) request to the Jersey City
 
 However, the city clerk (after dozens of emails and phone calls), never responded and pushed back the date. So, in a good faith effort to capture the data, we pulled from three data sets: Gun Violence Archive, SpotCrime and cross checked with the local newspaper -- the Jersey Journal -- to account for duplicates. 
 
-<b>First</b>, we found every single article from the Jersey Journal website archives that had "gunshots" keyword dating back to 2014. For every article, we made data entry notes for these columns: (1) name (if any), (2) cross roads (if mentioned -- if not, would be street name listed followed by neighborhood), (3) shots fired OR (4) persons injured OR (5) persons killed
+<b>First</b>, we found every single article from the Jersey Journal website archives that had "gunshots" as a keyword dating back to 2014. For every article, we made data entry notes for these columns: (1) name (if any), (2) cross roads (if mentioned -- if not, would be street name listed followed by neighborhood), (3) shots fired OR (4) persons injured OR (5) persons killed
 
-<b>Second</b>, we culled (simply copy/pasted) every single recorded shooting from the Gun Archive and SpotCrime databases for the same time period. However, Gun Archive and SpotCrime only go back so far, so we had to limit our search to the last six months of 2014 through the first six months of 2017. We then cleaned up that data sheet in OpenRefine. 
+<b>Second</b>, we culled (simply copy/pasted) every single recorded shooting from the Gun Violence Archive and SpotCrime databases for the same time period. However, Gun Archive and SpotCrime only go back so far, so we had to limit our search to the last six months of 2014 through the first six months of 2017. We then cleaned up that data sheet in OpenRefine. 
 
-<b>Third</b>, we cross referenced every shooting by date. If there were discrpancies in number of people injured or recorded shots fired, we made note of it and edited the data set to reflect what the newspaper reported. If there was no instance of an article published in the local paper, we added in good faith the data from SpotCrime or Gun Violence Archive. Instances of shootings with no injured or dead are recorded with zeros. 
+<b>Third</b>, we cross referenced every shooting by date. If there were discrepancies in number of people injured or recorded shots fired, we made note of it and edited the data set to reflect what the newspaper reported. If there was no instance of an article published in the local paper, we added in good faith the data from SpotCrime or Gun Violence Archive. Instances of shootings with no injured or dead are recorded with zeros. 
 
 <hr>
 
