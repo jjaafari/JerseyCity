@@ -1,5 +1,5 @@
-# JerseyCity
-A story of how a community came together to fight gun violence. 
+# A Cure for Jersey City: Showing Our Work
+How we got our data, and how we used it
 <hr>
 <h2> The Story </h2>
 <p>A metropolis of high-rise towers, power players in government (including President Trump’s son-in-law, Jared Kushner) and finance have made once-barren Jersey City a fancy home to 264,000 people living in the shadow of Manhattan, just across the Hudson River. But as of October this year, there have been 16 homicides and 98 total shootings in Jersey City. Most have occurred around the Greenville neighborhood, an area referred to locally as “The Hill.” Almost all of the deaths were caused by guns, according to an independent analysis conducted by NationSwell.  
