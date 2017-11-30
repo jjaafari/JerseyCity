@@ -18,7 +18,7 @@ So regular citizens and residents have started their own grassroots initiatives,
  
 <h1>The Data </h1>
 
-<h2> How we found our numbers </h2>
+<h2> How We Found Our Numbers </h2>
  
 There is very little data available for how many shots fired and shootings happen in Jersey City. There are a number of open source websites (Gun Violence Archive and Spotcrime, for example) that list shootings on record (based on user input data or news articles), but we knew that would be an icnomplete data set. 
 
@@ -32,15 +32,13 @@ However, the city clerk (after dozens of emails and phone calls), never responde
 
 <b>Third</b>, we cross referenced every shooting by date. If there were discrepancies in number of people injured or recorded shots fired, we made note of it and edited the data set to reflect what the newspaper reported. If there was no instance of an article published in the local paper, we added in good faith the data from SpotCrime or Gun Violence Archive. Instances of shootings with no injured or dead are recorded with zeros. 
 
-<hr>
-
 <h2> Cross Check with Known Public Records </h2>
 
 Recognizing that this data is imperfect because official records woud have been more helpful, we decided to cross check what we had with CompStat, the software used to record violent crimes. However, immediately there was an issue: CompStat does not record data based on shootings, specifically. The publci records available only list homicides and armed robbery. We know that homicides in Jersey City are primarily caused by guns, but there have been stabbings in the past, as well. Those aren't quantifiable within CompStat's data. 
 
 We did find that our numbers were -- in most cases -- higher than CompStat's. There was one case where our numbers were actually lower than CompStat's. We couldn't account for the difference except that some crimes go unreported in the news or old cases are resurfaced. 
 
-<hr>
+<h2> The Formula </h2>
 
 We mainly used excel formulas to find out total numbers after figuring out discrepancies. The way we did this was primarily through summing together total injuries or deaths if it matched a certain month string by year value. Example formula below. 
 
