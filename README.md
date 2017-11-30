@@ -38,4 +38,14 @@ Recognizing that this data is imperfect because official records woud have been 
 
 We did find that our numbers were -- in most cases -- higher than CompStat's. There was one case where our numbers were actually lower than CompStat's. We couldn't account for the difference except that some crimes go unreported in the news or old cases are resurfaced. 
 
+<hr>
+
+<h2> How we found our numbers </h2>
+
+We mainly used excel formulas to find out total numbers after figuring out discrepancies. The way we did this was primarily through summing together total injuries or deaths if it matched a certain month string by year value. Example formula below. 
+
+SUMIFS('# Killed', A, "July", Year, "2014")
+
+
+
 
